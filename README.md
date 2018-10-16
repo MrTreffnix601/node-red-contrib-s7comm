@@ -1,6 +1,6 @@
 # node-red-contrib-s7comm
 
-A Node-RED node to communicate with Siemens S7 PLCs.
+A Fork of the Hilscher Node-RED *node-red-contrib-s7comm* node, which runs on the Siemens IoT Gateway 2040.
 
 
 ## About
